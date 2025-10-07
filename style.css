@@ -3943,9 +3943,9 @@ color: #333;
 }
 
 @media screen and (max-width:768px) {
-  .sp_none {
+  /* .sp_none {
     display: none !important;
-  }
+  } */
   body {
     background: #ffffff;
     position: relative;
